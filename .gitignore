@@ -1,0 +1,6 @@
+token.js
+config.js
+/node_modules/
+/public/build/
+
+.DS_Store
