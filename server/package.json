@@ -13,7 +13,7 @@
     "formidable": "1.2.2",
     "jsonwebtoken": "8.5.1",
     "mongodb": "3.5.7",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "uuid": "^8.1.0"
   }
 }
